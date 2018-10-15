@@ -16,7 +16,7 @@
 | 0141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/) | [Java](https://github.com/mohong/leetcode-problems/tree/master/0141-Linked%20List%20Cycle/src) | 
 
 
-## 二分搜索树
+## 二分搜索树相关的题目
 
 |  ID  |   题目   | 题解 |
 | ---- | ------- | ---- |
