@@ -24,4 +24,4 @@
 | 0257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/description/) | [Java](https://github.com/mohong/leetcode-problems/blob/master/0257-Binary%20Tree%20Paths/src/Solution.java) |
 | 0589 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/) | [Java](https://github.com/mohong/leetcode-problems/blob/master/0589-N-ary%20Tree%20Preorder%20Traversal/src/Solution.java) |
 | 0590 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/) | [Java](https://github.com/mohong/leetcode-problems/blob/master/0590-N-ary%20Tree%20Postorder%20Traversal/src/Solution.java) |
-| 0559 | [N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/) | [Java]() |
+| 0559 | [N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/) | [Java](https://github.com/mohong/leetcode-problems/blob/master/0559-Maximum%20Depth%20of%20N-ary%20Tree/src/Solution.java) |
